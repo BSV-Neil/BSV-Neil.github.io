@@ -15,5 +15,8 @@ Growth mindset is compared against fixed midset which are stagnant and mostly pe
   * 2) Learn from mistakes
   * 3) Set goals and achieve
 
-I recently moved from LA to Seattle in December 2018. I enjoy hiking, traveling, and yoga.
+I recently moved from LA to Seattle in December 2018. I enjoy hiking, traveling, and yoga. Check out my github page below!
+
+:arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
+
 [github website](https://github.com/BSV-Neil)
