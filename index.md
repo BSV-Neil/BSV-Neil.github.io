@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 ```
-![Neil](fullsizeoutput_37f6.jpeg =50x50) 
+![Neil](fullsizeoutput_37f6.jpeg =100x100) 
 <H1> Hello, I'm Neil :grin: :ghost: </H1>
 
 *I am in Code Fellows 102*
