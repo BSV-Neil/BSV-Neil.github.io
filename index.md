@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 ```
 ![Neil](fullsizeoutput_37f6.jpeg) 
+
 <H1> Hello, I'm Neil :grin: :ghost: </H1>
 
 *I am in Code Fellows 102*
@@ -24,7 +25,7 @@ Growth mindset is compared against fixed midset which are stagnant and mostly pe
   * 2) Learn from mistakes
   * 3) Set goals and achieve
 
-I recently moved from LA to Seattle in December 2018. I enjoy hiking, traveling, and yoga. Check out my github page below!
+I recently moved from LA to Seattle in December 2018. I enjoy champagne, hiking, traveling, and yoga. Check out my github page below!
 
 :arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
 
