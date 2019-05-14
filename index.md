@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Hello
+_Hello, I'm Neil_
 ## I am in Code Fellows 102
-### Ready to learn
+### I am Ready to learn
 
 Growth mindset is compared against fixed midset which are stagnant and mostly pessimistic ideals. Growth mindset comes from within and you must believe in yourself.
   1) Persistance is Key
