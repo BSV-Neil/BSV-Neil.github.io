@@ -15,11 +15,12 @@ Syntax highlighted code block
 ## I am in Code Fellows 102
 ### Ready to learn
 
-- Bulleted
-- List
+Growth mindset is compared against fixed midset which are stagnant and mostly pessimistic ideals. Growth mindset comes from within and you must believe in yourself.
+  1) Persistance is Key
+  2) Learn from mistakes
+  3) Set goals and achieve
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
