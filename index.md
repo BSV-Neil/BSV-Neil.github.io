@@ -1,6 +1,5 @@
 
 ```markdown
-Syntax highlighted code block
 ```
 
 <H1> Hello, I'm Neil :grin: </H1>
