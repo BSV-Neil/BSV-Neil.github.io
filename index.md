@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+```
 
 <H1> *Hello, I'm Neil* </H1>
 _I am in Code Fellows 102_
