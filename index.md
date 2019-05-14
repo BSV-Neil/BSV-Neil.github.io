@@ -12,11 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 ```
 
-<H1> Hello, I'm Neil </H1>
+<H1> Hello, I'm Neil :grin: </H1>
 
 *I am in Code Fellows 102*
 
 _I am Ready to learn_
+
+Seattle based bitcoin enthousiast
 
 Growth mindset is compared against fixed midset which are stagnant and mostly pessimistic ideals. Growth mindset comes from within and you must believe in yourself.
   * 1) Persistance is Key
