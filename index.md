@@ -14,7 +14,7 @@ Syntax highlighted code block
 
 <H1> Hello, I'm Neil </H1>
 
-* am in Code Fellows 102*
+*I am in Code Fellows 102*
 
 _I am Ready to learn_
 
@@ -28,7 +28,7 @@ Growth mindset is compared against fixed midset which are stagnant and mostly pe
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+[github website](github.com/BSV-Neil/readme.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
