@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```
 
 <H1> Hello, I'm Neil :grin: :ghost: </H1>
+![Neil](fullsizeoutput_37f6.jpeg) 
 
 *I am in Code Fellows 102*
 
