@@ -28,7 +28,7 @@ Growth mindset is compared against fixed midset which are stagnant and mostly pe
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[github website](github.com/BSV-Neil/readme.md)
+[github website](https://github.com/BSV-Neil)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
