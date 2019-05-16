@@ -14,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <H1> Hello, I'm Neil :grin: :ghost: </H1>
 
-*I am in Code Fellows 102*
+*I am in Code Fellows 102 - This will be my journal*
 
 _I am Ready to learn_
 
