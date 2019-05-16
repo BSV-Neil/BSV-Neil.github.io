@@ -18,6 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _I am Ready to learn_
 
+My first night I learned some Markdown, Growth Mindset and Github!
+
 Seattle based bitcoin enthousiast
 
 Growth mindset is compared against fixed midset which are stagnant and mostly pessimistic. Growth mindset comes from within and you must believe in yourself.
@@ -40,6 +42,15 @@ TEXT EDITORS
 * 1) Text editors are not all the same. The ones preloaded onto your computer are very basic
 * 2) Other text editors can have the power to assume the remainder of your command once you start typing
 * 3) Take away - use 3rd party editor (IDE) - We are using Visual Studio Code
+
+First command I Ran - how exciting!
+MacBook:~ NeilFord$ ls
+Applications			Movies
+Desktop				Music
+Documents			Pictures
+Downloads			Public
+Library				discord_backup_codes.txt
+MacBook:~ NeilFord$ 
 ```
 
 
