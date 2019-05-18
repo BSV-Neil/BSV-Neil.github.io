@@ -20,9 +20,9 @@ _I am Ready to learn_
 
 [Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 1.md)
 
-[Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 2)
+[Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 2.md)
 
-[Journal Day 3](/Users/NeilFord/BSV-Neil.github.io/Journal Day 3)
+[Journal Day 3](/Users/NeilFord/BSV-Neil.github.io/Journal Day 3.md)
 
 My first night I learned some Markdown, Growth Mindset and Github!
 
