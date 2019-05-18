@@ -1,4 +1,3 @@
-```
 Class night two! 
 WOW: I learned a lot! How to install all programs I will use to start coding! I had no idea what a termnial was, how to run and install programs not from the App store, text editors are super cool and I'm excited to learn how to properly use it and make coding a bit easier for me as a newbie. 
 
@@ -17,4 +16,3 @@ Documents			Pictures
 Downloads			Public
 Library				discord_backup_codes.txt
 MacBook:~ NeilFord$ 
-```
