@@ -52,7 +52,9 @@ Downloads			Public
 Library				discord_backup_codes.txt
 MacBook:~ NeilFord$ 
 ```
-
+Class night Three!
+We are writing in VS CODE & hope to have it save in my github.com once I hit commit...
+Myave we can see changes committed if I run git add -all
 
 
 
