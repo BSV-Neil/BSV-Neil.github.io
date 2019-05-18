@@ -18,11 +18,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _I am Ready to learn_
 
-[Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 1.md)
+[Journa lDay 1](JournalDay1.md)
 
-[Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 2.md)
+[Journal Day 2](JournalDay2.md)
 
-[Journal Day 3](/Users/NeilFord/BSV-Neil.github.io/Journal Day 3.md)
+[Journal Day 3](JournalDay3.md)
 
 My first night I learned some Markdown, Growth Mindset and Github!
 
