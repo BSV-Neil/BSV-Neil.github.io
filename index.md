@@ -18,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _I am Ready to learn_
 
-[Journa lDay 1](JournalDay1.md)
+[Journal Day 1](JournalDay1.md)
 
 [Journal Day 2](JournalDay2.md)
 
