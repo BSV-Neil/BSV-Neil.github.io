@@ -18,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _I am Ready to learn_
 
-[Journal Day 1](BSV-Neil.github.io/Journal Day 1)
+[Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 1.md)
 
 [Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 2)
 
