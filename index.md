@@ -18,6 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _I am Ready to learn_
 
+[Journal Day 1](journalday1.html)
+
 My first night I learned some Markdown, Growth Mindset and Github!
 
 Seattle based bitcoin enthousiast
