@@ -13,5 +13,5 @@ Each time we save a version of our project its called a commit
 
 Stages of Git
 
-![Stages](j3.png)
+![Journal](J3.png)
 
