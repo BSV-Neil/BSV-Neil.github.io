@@ -18,8 +18,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _I am Ready to learn_
 
-[Journal Day 1](Journal Day 1.html)
+[Journal Day 1](BSV-Neil.github.io/Journal Day 1)
+
 [Journal Day 1](/Users/NeilFord/BSV-Neil.github.io/Journal Day 2)
+
 [Journal Day 3](/Users/NeilFord/BSV-Neil.github.io/Journal Day 3)
 
 My first night I learned some Markdown, Growth Mindset and Github!
