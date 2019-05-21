@@ -26,6 +26,9 @@ _I am Ready to learn_
 
 [Journal Day 4](JournalDay4.md)
 
+[Journal Day 5](JournalDay5.md)
+
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
