@@ -28,6 +28,8 @@ _I am Ready to learn_
 
 [Journal Day 5](JournalDay5.md)
 
+[Journal Day 6](JournalDay6.md)
+
 
 
 
