@@ -31,6 +31,9 @@ _I am Ready to learn_
 [Journal Day 6](JournalDay6.md)
 
 
+ALWAYS EAT BEFORE CLASS!
+![Chipotle](chipotle.jpg)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
